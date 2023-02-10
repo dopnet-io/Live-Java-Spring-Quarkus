@@ -7,7 +7,7 @@ Java é uma linguagem de programação e plataforma de computação lançada pel
 ## O download do Java é gratuito?
 
 Sim, o download do Java é gratuito para uso pessoal.
-Java também é gratuito para desenvolvimento: os desenvolvedores podem encontrar todos os kits de desenvolvimento e outras ferramentas úteis em (java download)[https://www.oracle.com/javadownload/].
+Java também é gratuito para desenvolvimento: os desenvolvedores podem encontrar todos os kits de desenvolvimento e outras ferramentas úteis em [java download](https://www.oracle.com/javadownload/).
 
 ## Por que devo atualizar para o patch Java mais recente a cada trimestre quando solicitado?
 
