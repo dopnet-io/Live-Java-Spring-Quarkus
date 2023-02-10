@@ -7,7 +7,7 @@ Java é uma linguagem de programação e plataforma de computação lançada pel
 ## O download do Java é gratuito?
 
 Sim, o download do Java é gratuito para uso pessoal.
-Java também é gratuito para desenvolvimento: os desenvolvedores podem encontrar todos os kits de desenvolvimento e outras ferramentas úteis em https://www.oracle.com/javadownload/.
+Java também é gratuito para desenvolvimento: os desenvolvedores podem encontrar todos os kits de desenvolvimento e outras ferramentas úteis em (java download)[https://www.oracle.com/javadownload/].
 
 ## Por que devo atualizar para o patch Java mais recente a cada trimestre quando solicitado?
 
@@ -29,3 +29,6 @@ O software Java Plug-in é um componente do Java Runtime Environment (JRE). O JR
 ### Já ouvi os termos Java Virtual Machine e JVM. Este software é Java?
 
 A Java Virtual Machine é apenas uma parte do software Java que está envolvida na execução de um aplicativo. A Java Virtual Machine é incorporada ao download do software Java, faz parte do JRE e ajuda a executar aplicativos Java.
+
+- [Repos Spring](https://github.com/dopnetskilldev/Live-Java-SpringBoot-AppWeb)
+- [Repos Quarkus](https://github.com/dopnetskilldev/Live-Java-Quarkus)
